@@ -47,3 +47,5 @@ $ npm install apollo-cache-inmemory apollo-client apollo-link apollo-link-http a
 ```
 
 To use `node-fetch@3.0.0` or higher, consult the `node-fetch` documentation for information about [loading and configuring the module](https://www.npmjs.com/package/node-fetch#loading-and-configuring-the-module).
+
+If you would prefer to avoid setting up your own local GraphQL API to work with the Apollo client as seen on the example on page 282, use the remote URIs instead, as found in the example on page 286.
